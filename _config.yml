@@ -33,6 +33,17 @@ tagline:               Understanding microbial evolution
 # A list of keywords for your blog
 keywords:              [research, genomics, metagenomics, pangenome, pangenomics, microbiome, evolution]
 
+
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+
+  
+
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
@@ -164,8 +175,8 @@ kramdown:
   math_engine:         mathjax
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
-
-
+  syntax_highlighter: rouge
+  
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 
@@ -370,8 +381,8 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://twitter.com/pangenomics
+#     - https://github.com/pangenomics
 
 
 # Plugin Configs
