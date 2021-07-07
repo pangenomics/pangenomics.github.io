@@ -1,0 +1,11 @@
+---
+name: Nicholas Pucci
+position: "PhD Student"
+---
+
+Born and raised in Rome, Italy I moved to the Netherlands right after high school to pursue my age-long objective of becoming a marine biologist. During my undergraduate, my curiosity for and understanding of biological interactions expanded, especially in the context of microbial ecosystems. This resulted in most of my educational training and personal interest being focused on the interactions of aquatic microbial populations with one another as well as with their physical and chemical environment. To consolidate my practical skills and further find my ‘vocation’, I pursued varying internships and engaged in different projects within the field of microbial ecology. This gave me the opportunity to visit different research institutes as well as work with and learn from inspiring colleagues, both in the Netherlands and abroad. I first started using bioinformatics tools during my early Master training and later joined the School of Ocean and Earth Sciences and Technology (SOEST, Honolulu) to conduct my MSc thesis work. There, I further consolidated my bioinformatics and statistics skills as well as my interest in data analysis while studying the dynamics of coral reef microbial communities across the Hawaiian Archipelago.
+
+During this time, my research interests especially developed towards the use of omics approaches for the exploration of microbial evolution and microbiomes, even outside the marine biosphere. I therefore decided to ‘update’ my career objectives and I am now pursuing a PhD at the Amsterdam UMC in the lab of Dr. Daniel R. Mende. Here, my research focuses on the early life development of the human gut microbiome and its role in the onset of childhood obesity. In particular, we make use of bioinformatics techniques to identify the metabolic pathways and products involved in the development of obesity, investigate the contribution of parental microbiome inheritance to an offspring’s risk to develop metabolic disorders.
+
+Education
+B.S. Biology (Free University of Amsterdam, VU) 2018; M.S. Freshwater and Marine Biology (University of Amsterdam, UvA) 2020; Ph.D. Amsterdam Universitair Medisch Centra (AUMC), Present.
