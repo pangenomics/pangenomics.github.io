@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
- url:                   https://pangenomics.github.io
+# url:                   https://username.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -33,21 +33,10 @@ tagline:               Understanding microbial evolution
 # A list of keywords for your blog
 keywords:              [research, genomics, metagenomics, pangenome, pangenomics, microbiome, evolution]
 
-
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-
-  
-
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-#logo:                  /assets/img/logo.png
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -92,8 +81,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.1.4
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -172,11 +161,11 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         mathjax
+  math_engine:         katex
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
-  syntax_highlighter: rouge
-  
+
+
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 
@@ -314,13 +303,6 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
-  publications:
-    permalink:         /publications/:path/
-    output:            true
-    
-  members:
-    people:            true
-    output:            true
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
@@ -339,6 +321,7 @@ include:
 
 # Plugins
 # ----------------------------------------------------------------------------------------
+
 plugins:
   - jekyll-default-layout
   - jekyll-feed
@@ -379,7 +362,6 @@ plugins:
 # Used on index and about sites
 # social:
 #   name:                <firstname> <lastname>
-#   links:
 #   links:
 #     - https://twitter.com/pangenomics
 #     - https://github.com/pangenomics
