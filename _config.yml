@@ -302,7 +302,14 @@ collections:
   projects:
     permalink:         /projects/:path/
     output:            true
-
+    
+  members:
+    permalink:         /members/:path/
+    output:            true
+    
+  publications:
+    permalink:         /publications/:path/
+    output:            true
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------

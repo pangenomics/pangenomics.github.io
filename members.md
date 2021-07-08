@@ -2,8 +2,8 @@
 layout: page
 title: Members
 description: >
-  Short introduction to the member of the lab
-hide_description: true
+  Short introduction to the members of the lab
+hide_description: false
 permalink: /members/
 ---
 
